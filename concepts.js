@@ -28,8 +28,8 @@ const Concepts = {
 
     es6Concepts: true,
 
-    promises: false,
-    asyncAwait: false,
+    promises: true, // See MDN
+    asyncAwait: true, // See MDN
 
     localorsessionstorage: true,
     setttimeoutvsinterval: true,
